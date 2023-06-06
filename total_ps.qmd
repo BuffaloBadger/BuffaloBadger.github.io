@@ -1,0 +1,18 @@
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+![](DSC00313.png){fig-alt="Chalkboard with BuffaloBadger's ToTaL PS written on it" fig-align="center" width="600"}
+
+### (Thoughts on Teaching and Learning Problem-Solving) {.ch}
+
+&nbsp;
+
