@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BuffaloBadger.github.io/posts/first_post/index.html</loc>
-    <lastmod>2023-06-19T12:57:21.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BuffaloBadger.github.io/posts/how_learning_works/index.html</loc>
-    <lastmod>2023-06-19T12:57:22.364Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BuffaloBadger.github.io/reaction_engineering_basics.html</loc>
-    <lastmod>2023-06-19T12:57:22.804Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BuffaloBadger.github.io/TODO.html</loc>
-    <lastmod>2023-06-19T12:57:23.160Z</lastmod>
+    <loc>https://BuffaloBadger.github.io/about.html</loc>
+    <lastmod>2023-07-03T16:35:14.825Z</lastmod>
   </url>
   <url>
     <loc>https://BuffaloBadger.github.io/index.html</loc>
-    <lastmod>2023-06-19T12:57:23.526Z</lastmod>
+    <lastmod>2023-07-03T16:35:13.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BuffaloBadger.github.io/reaction_engineering_basics.html</loc>
+    <lastmod>2023-07-03T16:35:13.006Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BuffaloBadger.github.io/posts/first_post/index.html</loc>
+    <lastmod>2023-07-03T16:35:12.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BuffaloBadger.github.io/posts/what_is_the_purpose/index.html</loc>
+    <lastmod>2023-07-03T16:35:11.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BuffaloBadger.github.io/posts/how_learning_works/index.html</loc>
+    <lastmod>2023-07-03T16:35:12.526Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BuffaloBadger.github.io/TODO.html</loc>
+    <lastmod>2023-07-03T16:35:13.401Z</lastmod>
   </url>
   <url>
     <loc>https://BuffaloBadger.github.io/total_ps.html</loc>
-    <lastmod>2023-06-19T12:57:24.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BuffaloBadger.github.io/about.html</loc>
-    <lastmod>2023-06-19T12:57:24.408Z</lastmod>
+    <lastmod>2023-07-03T16:35:14.406Z</lastmod>
   </url>
 </urlset>
