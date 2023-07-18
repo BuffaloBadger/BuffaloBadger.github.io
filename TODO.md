@@ -1,5 +1,24 @@
+quarto publish gh-pages
 
-* create repository on github and configure the github pages source to be the docs folder.
-* make sure search works
 * add social media and rss
 * set up utterances for blog comments
+
+# Blog Categories
+exam
+problem-solving
+learning science
+homework
+achievement goals
+goal structure
+
+# Ideas for Posts
+Why mimicry is bad
+Mastery principle
+Practice principle
+Motivation principle
+Achievement Goal Theory
+Traditional PS Pedagogy - do unto others/inflict upon others
+Scaling, Translation and Propagation
+Propagation - create teaching resources and post e.g. CACHE or Colorado
+Propagation - seeding departments with teaching experts doesn't work; replace first semester teaching assignment with mentored course development.
+
