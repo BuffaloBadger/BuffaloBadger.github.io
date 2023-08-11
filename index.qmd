@@ -20,13 +20,13 @@
 
 ::: {.column width="35%"}
 
-[![](RE_Basics_Cover.png){style="margin: 10px" width="200" style="float: left;"}](reaction_engineering_basics.html)
+[![](RE_Basics_Cover.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/RE_Basics)
 
 :::
 
 ::: {.column width="65%"}
 
-[*Reaction Engineering Basics*](reaction_engineering_basics.html) is a book I am writing for use in the undergraduate kinetics and reaction engineering course I teach. It will be accessible here when it is ready.
+[*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics) is a book I am writing for use in the undergraduate kinetics and reaction engineering course I teach. Everything for which a first draft has been completed is available via this link. As drafts of missing chapters are completed, they will be added. Once I have completed first drafts of all of the chapters and appendices, I will do a final revision and proofreading. At that point I will add the capability for readers to report errors.
 
 :::
 

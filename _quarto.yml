@@ -12,7 +12,7 @@ website:
       - text: "ToTaL PS"
         href: total_ps.qmd
       - text: "Reaction Engineering Basics"
-        href: reaction_engineering_basics.qmd
+        href: http://buffalobadger.github.io/RE_Basics
 #      - text: "SCoRE"
 #        href: score.qmd
 #      - text: "The Sett"
