@@ -7,9 +7,9 @@ Hi! My name is Carl Lund. I'm a [Wisconsin Badger](https://uwbadgers.com) fan an
 
 Thinking that perhaps my thoughts and experiences over the 35-plus years I've been teaching problem-solving courses might be useful to others who do the same, I decided to blog about it. So this site is the home of the BuffaloBadger's ToTaL PS blog. "ToTaL PS" stands for Thoughts on Teaching and Learning Problem Solving, and I'm the BuffaloBadger.
 
-Years ago I created a site with resources for the kinetics and reaction engineering course I teach. I'm now about half way through the process of creating a book based on those materials. The book will be titled *Reaction Engineering Basics*. When it gets closer to being completed, I will add it to this site. At present there is only a placeholder page for it.
+Years ago I created a site with resources for the kinetics and reaction engineering course I teach. I'm now about half way through the process of creating a book based on those materials. The book is titled *Reaction Engineering Basics*. Even though it is still being written, I've added it to this site, making available the parts for which a first draft has been completed.
 
-After I complete *Reaction Engineering Basics*, I plan to create an online self-study course based upon it. When it is ready, it will be added to this site, too.
+After I complete *Reaction Engineering Basics*, I plan to create an online self-study course based upon it. Eventually that, too, will be added to this site.
 
 Hope you get inspired or learn something while visiting here!
 
