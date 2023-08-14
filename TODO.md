@@ -5,6 +5,7 @@ quarto publish gh-pages
 
 # Blog Categories
 exam
+evaluation
 problem-solving
 learning science
 homework
