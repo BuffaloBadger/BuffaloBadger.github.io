@@ -22,6 +22,11 @@ website:
   search:
     location: navbar
     type: overlay
+  page-footer:
+    background: light
+    right: 
+      - text: Copyright 2023, Carl Lund 
+  favicon: BuffaloBadger_16_16.png
 
 format:
   html:
