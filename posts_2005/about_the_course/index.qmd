@@ -1,0 +1,10 @@
+---
+title: "About the Course"
+author: "BuffaloBadger"
+date: "2024-?-?"
+draft: true
+---
+
+![](path_to_photo)
+
+[to be added.]

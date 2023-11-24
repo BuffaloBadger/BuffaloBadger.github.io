@@ -1,7 +1,7 @@
 ---
 listing:
-  contents: posts_2005
-  sort: "date asc"
+  contents: posts
+  sort: "date desc"
   type: default
   categories: true
   sort-ui: false
@@ -13,12 +13,4 @@ title-block-banner: true
 
 ![](DSC00313.png){fig-alt="Chalkboard with BuffaloBadger's ToTaL PS written on it" fig-align="center" width="600"}
 
-### (Thoughts on Teaching and Learning Problem-Solving) {.ch}
-
 &nbsp;
-
-[**Posts from 2023**](archived_posts.qmd)
-
-## 2005 Assessment of a Problem-Solving Course
-
-
