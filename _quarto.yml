@@ -9,14 +9,14 @@ website:
     search: true
     logo: Banner.png
     left:
-      - text: "ToTaL PS"
-        href: total_ps.qmd
       - text: "Reaction Engineering Basics"
         href: http://buffalobadger.github.io/RE_Basics
-#      - text: "SCoRE"
-#        href: score.qmd
-#      - text: "The Sett"
-#        href: sett.qmd
+      - text: "SCoRE"
+        href: score.qmd
+      - text: "ToTaL Engineering"
+        href: total_eng.qmd
+      - text: "The Sett"
+        href: the_sett.qmd
       - text: "About"
         href: about.qmd
   search:
@@ -33,6 +33,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
