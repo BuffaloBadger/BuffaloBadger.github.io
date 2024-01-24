@@ -1,20 +1,6 @@
 ![](Banner.png){fig-alt="BuffaloBadger logo" fig-align="center" width="600"}
 
-:::: {.columns}
-
-::: {.column width="35%"}
-
-[![](DSC00313.png){style="margin: 10px" width="200" style="float: left;"}](total_ps.html) 
-
-:::
-
-::: {.column width="65%"}
-
-[ToTaL PS](total_ps.html) (Thoughts on Teaching and Learning Problem-Solving) is a blog where I share my thoughts and experience from teaching an undergraduate, engineering, problem-solving course.
-
-:::
-
-::::
+## Reaction Engineering Basics
 
 :::: {.columns}
 
@@ -27,6 +13,60 @@
 ::: {.column width="65%"}
 
 [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics) is a book I am writing for use in the undergraduate kinetics and reaction engineering course I teach. Everything for which a first draft has been completed is available via this link. As drafts of missing chapters are completed, they will be added. Once I have completed first drafts of all of the chapters and appendices, I will do a final revision and proofreading. At that point I will add the capability for readers to report errors.
+
+:::
+
+::::
+
+## SCoRE
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+[![](SCoRE_Logo.png){style="margin: 10px" width="200" style="float: left;"}](score.qmd) 
+
+:::
+
+::: {.column width="65%"}
+
+[SCoRE](score.qmd) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it. It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
+
+:::
+
+::::
+
+## ToTaL Engineering
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+[![](ToTaL_Eng_Logo.png){style="margin: 10px" width="200" style="float: left;"}](total_eng.qmd) 
+
+:::
+
+::: {.column width="65%"}
+
+[ToTaL Engineering](total_eng.qmd) (Thoughts on Teaching and Learning Engineering) is a place where I share my thoughts and experiences from teaching undergraduate engineering courses. It started out as a blog on teaching problem-solving courses, but I found it too difficult to post items on a regular basis, so I changed to a format where the posts are longer, but less frequent.
+
+:::
+
+::::
+
+## The Sett
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+[Logo Coming Soon!}](the_sett.qmd) 
+
+:::
+
+::: {.column width="65%"}
+
+[The Sett](the_sett.qmd) Unlike Gophers, who live in holes, a Badger's home is called a sett. The BuffaloBadger's Sett is a place where I post **about anything other than engineering and engineering education**.
 
 :::
 
