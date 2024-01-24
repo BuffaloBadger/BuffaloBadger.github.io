@@ -1,25 +1,8 @@
 quarto publish gh-pages
 
-* add social media and rss
-* set up utterances for blog comments
-
-# Blog Categories
-exam
-evaluation
-problem-solving
-learning science
-homework
-achievement goals
-goal structure
-
-# Ideas for Posts
-Why mimicry is bad
-Mastery principle
-Practice principle
-Motivation principle
-Achievement Goal Theory
-Traditional PS Pedagogy - do unto others/inflict upon others
-Scaling, Translation and Propagation
-Propagation - create teaching resources and post e.g. CACHE or Colorado
-Propagation - seeding departments with teaching experts doesn't work; replace first semester teaching assignment with mentored course development.
-
+- add a logo for the Sett
+- when ToTaL Engineering goes live, change links to it, and revise total_eng.qmd to redirect to it
+- when SCoRE goes live, change links to it, and revise score.qmd to redirect to it
+- when the Sett goes live, change links to it, and revise the_sett.qmd to redirect to it
+- add social media to the navbar
+- after all ToTaL Engineering, SCoRE, the Sett, and social media are all live, revise about.qmd

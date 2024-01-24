@@ -30,7 +30,7 @@
 
 ::: {.column width="65%"}
 
-[SCoRE](score.qmd) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it. It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
+[SCoRE](score.qmd) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it (at least not at the university where I teach). It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
 
 :::
 
@@ -60,7 +60,7 @@
 
 ::: {.column width="35%"}
 
-[Logo Coming Soon!}](the_sett.qmd) 
+[Logo Coming Soon!](the_sett.qmd) 
 
 :::
 
