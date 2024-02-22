@@ -54,14 +54,14 @@
 
 ::::
 
-<!--
+
 ## The Sett
 
 :::: {.columns}
 
 ::: {.column width="35%"}
 
-[Logo Coming Soon!](the_sett.qmd) 
+[![](images/BB_sett_logo.jpeg){style="margin: 10px" width="200" style="float: left;"}](the_sett.qmd)
 
 :::
 
@@ -72,8 +72,6 @@
 :::
 
 ::::
-
--->
 
 ## License
 
