@@ -7,16 +7,16 @@ website:
   navbar:
     title: false
     search: true
-    logo: Banner.png
+    logo: graphics/Banner.png
     left:
       - text: "Reaction Engineering Basics"
         href: http://buffalobadger.github.io/RE_Basics
       - text: "SCoRE"
-        href: score.qmd
+        href: file:///Users/lund/Projects/Kinetics/SCoRE/_site/index.html
       - text: "ToTaL Engineering"
-        href: total_eng.qmd
+        href: file:///Users/lund/Projects/ToTaL_Engineering/_site/index.html
       - text: "The Sett"
-        href: the_sett.qmd
+        href: file:///Users/lund/Projects/The_Sett/_site/index.html
       - text: "About"
         href: about.qmd
   search:
@@ -26,7 +26,7 @@ website:
     background: light
     right: 
       - text: Copyright 2023, Carl Lund 
-  favicon: BuffaloBadger_16_16.png
+  favicon: graphics/BuffaloBadger_16_16.png
 
 format:
   html:

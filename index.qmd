@@ -1,4 +1,4 @@
-![](Banner.png){fig-alt="BuffaloBadger logo" fig-align="center" width="600"}
+![](graphics/Banner.png){fig-alt="BuffaloBadger logo" fig-align="center" width="600"}
 
 ## Reaction Engineering Basics
 
@@ -6,7 +6,7 @@
 
 ::: {.column width="35%"}
 
-[![](RE_Basics_Cover.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/RE_Basics)
+[![](graphics/RE_Basics_Cover.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/RE_Basics)
 
 :::
 
@@ -24,13 +24,13 @@
 
 ::: {.column width="35%"}
 
-[![](SCoRE_Logo.png){style="margin: 10px" width="200" style="float: left;"}](score.qmd) 
+[![](graphics/SCoRE_Logo.png){style="margin: 10px" width="200" style="float: left;"}](file:///Users/lund/Projects/Kinetics/SCoRE/_site/index.html) 
 
 :::
 
 ::: {.column width="65%"}
 
-[SCoRE](score.qmd) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it (at least not at the university where I teach). It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
+[SCoRE](file:///Users/lund/Projects/Kinetics/SCoRE/_site/index.html) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it (at least not at the university where I teach). It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
 
 :::
 
@@ -42,13 +42,13 @@
 
 ::: {.column width="35%"}
 
-[![](ToTaL_Eng_Logo.png){style="margin: 10px" width="200" style="float: left;"}](total_eng.qmd) 
+[![](graphics/ToTaL_Eng_Logo.png){style="margin: 10px" width="200" style="float: left;"}](file:///Users/lund/Projects/ToTaL_Engineering/_site/index.html) 
 
 :::
 
 ::: {.column width="65%"}
 
-[ToTaL Engineering](total_eng.qmd) (Thoughts on Teaching and Learning Engineering) is a place where I share my thoughts and experiences from teaching undergraduate engineering courses. It started out as a blog on teaching problem-solving courses, but I found it too difficult to post items on a regular basis, so I changed to a format where the posts are longer, but less frequent.
+[ToTaL Engineering](file:///Users/lund/Projects/ToTaL_Engineering/_site/index.html) (Thoughts on Teaching and Learning Engineering) is a place where I share my thoughts and experiences from teaching undergraduate engineering courses. It started out as a blog on teaching problem-solving courses, but I found it too difficult to post items on a regular basis, so I changed to a format where the posts are longer, but less frequent.
 
 :::
 
@@ -61,13 +61,13 @@
 
 ::: {.column width="35%"}
 
-[![](images/BB_sett_logo.jpeg){style="margin: 10px" width="200" style="float: left;"}](the_sett.qmd)
+[![](graphics/BB_sett_logo.jpeg){style="margin: 10px" width="200" style="float: left;"}](file:///Users/lund/Projects/The_Sett/_site/index.html)
 
 :::
 
 ::: {.column width="65%"}
 
-[The Sett](the_sett.qmd) Unlike Gophers, who live in holes, a Badger's home is called a sett. The BuffaloBadger's Sett is a place where I post **about anything other than engineering and engineering education**.
+[The Sett](file:///Users/lund/Projects/The_Sett/_site/index.html) Unlike Gophers, who live in holes, a Badger's home is called a sett. The BuffaloBadger's Sett is a place where I post **about anything other than engineering and engineering education**.
 
 :::
 
