@@ -1,61 +1,30 @@
 ![](graphics/Banner.png){fig-alt="BuffaloBadger logo" fig-align="center" width="600"}
 
-## Reaction Engineering Basics
+## Reaction Engineering Basics (REB)
 
 :::: {.columns}
 
 ::: {.column width="35%"}
 
-[![](graphics/RE_Basics_Cover.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/RE_Basics)
+[![](graphics/REB_Cover.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/RE_Basics)
 
 :::
 
 ::: {.column width="65%"}
 
-[*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics) is a book I am writing for use in the undergraduate kinetics and reaction engineering course I teach. Everything for which a first draft has been completed is available via this link. As drafts of missing chapters are completed, they will be added. Once I have completed first drafts of all of the chapters and appendices, I will do a final revision and proofreading. At that point I will add the capability for readers to report errors.
+[*REB, The Book*](http://buffalobadger.github.io/RE_Basics) is a textbook on reaction engineering, written for use in the undergraduate kinetics and reaction engineering course I teach.
+
+[*REB, The Course*](http://buffalobadger.github.io/RE_Basics_Course) is an online, self-study course for learning reaction engineering at the undergraduate level. It is very similar to the course I teach in person, but it is designed to be used by students who are learning on their own, and you can't earn college credit by completing it.
+
+*REB, The Course* and *REB, The Book* are designed to be used together and to provide an integrated platform for learning reaction engineering.
+
+[*REB, The Design*](http://buffalobadger.github.io/RE_Basics_Design) describes the design of *REB, The Course* and *REB, The Book* and the pedagogical principles that guided their development.
 
 :::
 
 ::::
 
-## SCoRE
-
-:::: {.columns}
-
-::: {.column width="35%"}
-
-[![](graphics/SCoRE_Logo.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/SCoRE) 
-
-:::
-
-::: {.column width="65%"}
-
-[SCoRE](http://buffalobadger.github.io/SCoRE) (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on [*Reaction Engineering Basics*](http://buffalobadger.github.io/RE_Basics). It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is **not** affiliated with any university, and you **cannot** earn university credit for taking it (at least not at the university where I teach). It's a **self-study** course for anyone with a personal interest in learning about chemical reaction engineering.
-
-:::
-
-::::
-
-## ToTaL Engineering
-
-:::: {.columns}
-
-::: {.column width="35%"}
-
-[![](graphics/ToTaL_Eng_Logo.png){style="margin: 10px" width="200" style="float: left;"}](http://buffalobadger.github.io/ToTaL_Engineering) 
-
-:::
-
-::: {.column width="65%"}
-
-[ToTaL Engineering](http://buffalobadger.github.io/ToTaL_Engineering) (Thoughts on Teaching and Learning Engineering) is a place where I share my thoughts and experiences from teaching undergraduate engineering courses. It started out as a blog on teaching problem-solving courses, but I found it too difficult to post items on a regular basis, so I changed to a format where the posts are longer, but less frequent.
-
-:::
-
-::::
-
-
-## The Sett
+## BuffaloBadger's Sett
 
 :::: {.columns}
 
@@ -67,7 +36,7 @@
 
 ::: {.column width="65%"}
 
-[The Sett](http://buffalobadger.github.io/The_Sett) Unlike Gophers, who live in holes, a Badger's home is called a sett. The BuffaloBadger's Sett is a place where I post **about anything other than engineering and engineering education**.
+Unlike Gophers, who live in holes, a Badger's home is called a sett. [BuffaloBadger's Sett](http://buffalobadger.github.io/The_Sett) is my online home where I post random thoughts about anything other than engineering and engineering education.
 
 :::
 

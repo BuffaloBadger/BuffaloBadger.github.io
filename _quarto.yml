@@ -9,11 +9,11 @@ website:
     search: true
     logo: graphics/Banner.png
     left:
-      - text: "Reaction Engineering Basics"
+      - text: "REB, The Book"
         href: http://buffalobadger.github.io/RE_Basics
-      - text: "SCoRE"
+      - text: "REB, The Course"
         href: http://buffalobadger.github.io/SCoRE
-      - text: "ToTaL Engineering"
+      - text: "REB, The Design"
         href: http://buffalobadger.github.io/ToTaL_Engineering
       - text: "The Sett"
         href: http://buffalobadger.github.io/The_Sett
