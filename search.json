@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "BuffaloBadger",
     "section": "",
-    "text": "Hi! My name is Carl Lund. I’m a Wisconsin Badger fan and UW Chemical Engineering alum living in Buffalo, NY. I’m also a professor of Chemical Engineering at the University at Buffalo.\nOne of the courses I teach is an undergraduate course on chemical kinetics and reaction engineering. It’s a typical engineering problem-solving course that I’ve been teaching since 1986. During that time, I’ve revised and refined the methods I use when teaching it, trying to make student learning easier and more efficient. This semester (Spring 2024) I’m teaching a course on energy and the environment for the first time. It is a totally different type of course where the content is largely student-driven and the format is largely discussion and student presentations. Thinking that perhaps my thoughts and experiences over the 35-plus years I’ve been teaching might be useful to others who do the same, I decided to write about the evolution of the reaction engineering course over the years and about the development of the energy and the environment course. The result is BuffaloBadger’s ToTaL Engineering, where “ToTaL Engineering” stands for Thoughts on Teaching and Learning Engineering, and I’m the BuffaloBadger.\nYears ago I created a site with resources for the kinetics and reaction engineering course I teach. It was a combination of readings and videos about reaction engineering together with some resources for teaching about it. I’m now about half way through the process of creating a book based on those materials. The book is titled Reaction Engineering Basics (right now it is still being written, but a first draft of some parts is available).\nWhen I teach reaction engineering, I use a “flipped classroom” format where the students watch videos and read before class, and then we use class time to practice using the information from the videos and readings. I have a number of videos posted for this purpose, but as my course has evolved, they have gotten out of sync with what is presented in class. Since I am writing Reaction Engineering Basics for use in the class, I decided to make a new set of videos that are based upon it. I further decided that I’d make them available for free to anyone who wants to learn about reaction engineering. (I’m guessing that there are millions of people sitting at home and thinking, “I wish I knew more about reaction engineering.”) So, I’m also developing SCoRE, a Self-Study Course on Reaction Engineering.\nAt present, Reaction Engineering Basics, SCoRE, and ToTaL Engineering suck up a lot of my time. Nonetheless, I do have other interests, and The BuffaloBadger’s Sett is where I talk, rant, and ramble on about things other than reaction engineering and engineering education.\nHope you get inspired or learn something while visiting here!\nHorns Up and On Wisconsin!"
+    "text": "Hi! My name is Carl Lund. I’m a Wisconsin Badger fan and UW Chemical Engineering alum living in Buffalo, NY. I’m also a professor of Chemical Engineering at the University at Buffalo.\nI have been teaching undergraduate reaction engineering for almost 40 years, during which I’ve continually revised my teaching methods and the resources I use. I created this site to share the Reaction Engineering Basics resources I have developed during that time with others. REB, The Book is the free, online textbook I wrote and use for teaching undergraduate reaction engineering.\nREB, The Course is an online, self-study course that is tightly integrated with the book. I’m sharing it as a free resource for anyone who wants to learn about reaction engineering, but also to illustrate the teaching methods I’ve found to be particularly effective in helping students learn more easily and efficiently.\nI have no formal training in education, but I have read a lot about it and have tried to apply what I’ve learned to my teaching. I have also been fortunate to have had some great mentors who have helped me learn how to teach better. In REB, The Design, I describe the design of REB, The Course and REB, The Book and the pedagogical principles that guided their development. I’m sharing this information in the hope that it will be useful to others who are interested in improving their teaching. The approach can easily be adapted to most problem-solving engineering and science courses.\nI do have other interests, and The BuffaloBadger’s Sett is where I hope to talk, rant, and ramble on about things other than reaction engineering and engineering education.\nHope you get inspired or learn something while visiting here!\nHorns Up and On Wisconsin!"
   },
   {
     "objectID": "TODO.html",
@@ -14,32 +14,18 @@
     "text": "quarto publish gh-pages\n\nadd a logo for the Sett\nwhen ToTaL Engineering goes live, change links to it, and revise total_eng.qmd to redirect to it\nwhen SCoRE goes live, change links to it, and revise score.qmd to redirect to it\nwhen the Sett goes live, change links to it, and revise the_sett.qmd to redirect to it\nadd social media to the navbar\nafter all ToTaL Engineering, SCoRE, the Sett, and social media are all live, revise about.qmd"
   },
   {
-    "objectID": "index.html#reaction-engineering-basics",
-    "href": "index.html#reaction-engineering-basics",
+    "objectID": "index.html#reaction-engineering-basics-reb",
+    "href": "index.html#reaction-engineering-basics-reb",
     "title": "BuffaloBadger",
-    "section": "Reaction Engineering Basics",
-    "text": "Reaction Engineering Basics\n\n\n\n\nReaction Engineering Basics is a book I am writing for use in the undergraduate kinetics and reaction engineering course I teach. Everything for which a first draft has been completed is available via this link. As drafts of missing chapters are completed, they will be added. Once I have completed first drafts of all of the chapters and appendices, I will do a final revision and proofreading. At that point I will add the capability for readers to report errors."
+    "section": "Reaction Engineering Basics (REB)",
+    "text": "Reaction Engineering Basics (REB)\n\n\n\n\nREB, The Book is a textbook on reaction engineering, written for use in the undergraduate kinetics and reaction engineering course I teach.\nREB, The Course is an online, self-study course for learning reaction engineering at the undergraduate level. It is very similar to the course I teach in person, but it is designed to be used by students who are learning on their own, and you can’t earn college credit by completing it.\nREB, The Course and REB, The Book are designed to be used together and to provide an integrated platform for learning reaction engineering.\nREB, The Design describes the design of REB, The Course and REB, The Book and the pedagogical principles that guided their development."
   },
   {
-    "objectID": "index.html#score",
-    "href": "index.html#score",
+    "objectID": "index.html#buffalobadgers-sett",
+    "href": "index.html#buffalobadgers-sett",
     "title": "BuffaloBadger",
-    "section": "SCoRE",
-    "text": "SCoRE\n\n\n\n\nSCoRE (Self-Study Course on Reaction Engineering) is a free, online course on chemical reaction engineering that I am developing. SCoRE is based on Reaction Engineering Basics. It is a slightly more comprehensive version of the undergraduate kinetics and reaction engineering course I teach. It is not affiliated with any university, and you cannot earn university credit for taking it (at least not at the university where I teach). It’s a self-study course for anyone with a personal interest in learning about chemical reaction engineering."
-  },
-  {
-    "objectID": "index.html#total-engineering",
-    "href": "index.html#total-engineering",
-    "title": "BuffaloBadger",
-    "section": "ToTaL Engineering",
-    "text": "ToTaL Engineering\n\n\n\n\nToTaL Engineering (Thoughts on Teaching and Learning Engineering) is a place where I share my thoughts and experiences from teaching undergraduate engineering courses. It started out as a blog on teaching problem-solving courses, but I found it too difficult to post items on a regular basis, so I changed to a format where the posts are longer, but less frequent."
-  },
-  {
-    "objectID": "index.html#the-sett",
-    "href": "index.html#the-sett",
-    "title": "BuffaloBadger",
-    "section": "The Sett",
-    "text": "The Sett\n\n\n\n\nThe Sett Unlike Gophers, who live in holes, a Badger’s home is called a sett. The BuffaloBadger’s Sett is a place where I post about anything other than engineering and engineering education."
+    "section": "BuffaloBadger’s Sett",
+    "text": "BuffaloBadger’s Sett\n\n\n\n\nUnlike Gophers, who live in holes, a Badger’s home is called a sett. BuffaloBadger’s Sett is my online home where I post random thoughts about anything other than engineering and engineering education."
   },
   {
     "objectID": "index.html#license",
