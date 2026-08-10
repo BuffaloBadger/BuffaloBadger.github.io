@@ -12,9 +12,9 @@ website:
       - text: "REB, The Book"
         href: http://buffalobadger.github.io/RE_Basics
       - text: "REB, The Course"
-        href: http://buffalobadger.github.io/SCoRE
+        href: http://buffalobadger.github.io/RE_Basics_Course
       - text: "REB, The Design"
-        href: http://buffalobadger.github.io/ToTaL_Engineering
+        href: http://buffalobadger.github.io/RE_Basics_Design
       - text: "The Sett"
         href: http://buffalobadger.github.io/The_Sett
       - text: "About"
@@ -25,7 +25,7 @@ website:
   page-footer:
     background: light
     right: 
-      - text: Copyright 2023, Carl Lund 
+      - text: Copyright 2026, Carl Lund 
   favicon: graphics/BuffaloBadger_16_16.png
 
 format:
